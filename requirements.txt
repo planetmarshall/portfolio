@@ -1,0 +1,6 @@
+jupyterlab
+numpy
+beautifulsoup4
+pandas
+alpha_vantage
+matplotlib
